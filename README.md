@@ -21,4 +21,4 @@ Arranging processes depending on their priority, size and time
 
 #### Using Command Prompt (Alternative)
 
-- <a href="https://github.com/rynrsts/sorting/blob/main/command-prompt.md">Compiling and Executing using Command Prompt</a>
+- <a href="https://github.com/rynrsts/arrange-process/blob/main/command-prompt.md">Compiling and Executing using Command Prompt</a>
